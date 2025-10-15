@@ -1,0 +1,16 @@
+.contenedor{
+    display: flex;
+    flex: 1;
+    border: 2px solid black;
+    gap: 10px;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+.item{
+    flex: 1;
+    text-align: center;
+    border: 2px solid black;
+    padding: 150px;
+    margin: 15px 20px;
+}
